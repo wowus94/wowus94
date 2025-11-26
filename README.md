@@ -5,17 +5,17 @@
 ## 🛠 Стек технологий
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?logo=kotlin&logoColor=7F52FF)
 ![Android](https://img.shields.io/badge/-Android-090909?logo=android&logoColor=3DDC84)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 ![Compose](https://img.shields.io/badge/-Jetpack%20Compose-090909?logo=jetpackcompose&logoColor=4285F4)
-![Hilt](https://img.shields.io/badge/-Hilt-090909?logo=android&logoColor=white)
-![Coroutines](https://img.shields.io/badge/-Coroutines-090909?logo=kotlin&logoColor=white)
-![Retrofit](https://img.shields.io/badge/-Retrofit-090909?)
+![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin%20Multiplatform-090909?)
 
 ---
+## 🚀 Избранные проекты  
 
-## 🚀 Проекты
-- 📱 [WeatherApp](https://github.com/username/WeatherApp)
-- 🎧 [MusicPlayer](https://github.com/username/MusicPlayer)
-- 🌍 [TravelMap](https://github.com/username/TravelMap)
+- 🌍 **PointMap** — проект с картами и геолокацией (Kotlin + Android)  
+- ☁️ **WeatherAppJetpackCompose** — погода, Jetpack Compose + Kotlin  
+- 📰 **NewsApp** — новостное приложение, MVVM + Retrofit + Room  
+- 📚 **BookCase** — приложение на Compose + Clean Architecture  
 
 ---
 
@@ -25,4 +25,4 @@
 ---
 
 ## 📫 Контакты
-[Telegram](https://t.me/wowus94)
+[Telegram](https://t.me/wowus94) || [Habr](https://career.habr.com/wowus94) || [Mail](vnl.dev46@gmail.com)
