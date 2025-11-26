@@ -1,5 +1,3 @@
-<img align="right" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="200">
-
 <h1 align="center">👋 Привет, я Владимир — Android Developer </h1>
 ---
 ## 📫 Контакты
