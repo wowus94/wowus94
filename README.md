@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, я Владимир — Android Developer </h1>
+<h2 align="center">👋 Привет, я Владимир — Android Developer </h2>
 
 ---
 
@@ -29,7 +29,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wowus94)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=wowus94&color=blueviolet&style=flat-square)
-
-![GitHub Snake](https://github.com/wowus94/wowus94/blob/output/github-contribution-grid-snake.svg)
 
 
