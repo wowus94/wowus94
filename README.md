@@ -2,7 +2,7 @@
 
 ---
 
-## 📫 Контакты и внешние ссылки  
+## 📫 Контакты
 
 [Telegram](https://t.me/wowus94) • [Habr](https://career.habr.com/wowus94) • [Mail](vnl.dev46@gmail.com)
 
