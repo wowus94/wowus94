@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я Владимир — Android Developer </h1>
 
-<!--
-**wowus94/wowus94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Стек технологий
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?logo=kotlin&logoColor=7F52FF)
+![Android](https://img.shields.io/badge/-Android-090909?logo=android&logoColor=3DDC84)
+![Compose](https://img.shields.io/badge/-Jetpack%20Compose-090909?logo=jetpackcompose&logoColor=4285F4)
+![Hilt](https://img.shields.io/badge/-Hilt-090909?logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/-Coroutines-090909?logo=kotlin&logoColor=white)
+![Retrofit](https://img.shields.io/badge/-Retrofit-090909?)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Проекты
+- 📱 [WeatherApp](https://github.com/username/WeatherApp)
+- 🎧 [MusicPlayer](https://github.com/username/MusicPlayer)
+- 🌍 [TravelMap](https://github.com/username/TravelMap)
+
+---
+
+## 📊 Статистика
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Контакты
+[Telegram](https://t.me/wowus94)
