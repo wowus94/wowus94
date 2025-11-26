@@ -1,7 +1,11 @@
 <h1 align="center">👋 Привет, я Владимир — Android Developer </h1>
+
 ---
-## 📫 Контакты
-[Telegram](https://t.me/wowus94) || [Habr](https://career.habr.com/wowus94) || [Mail](vnl.dev46@gmail.com)
+
+## 📫 Контакты и внешние ссылки  
+
+[Telegram](https://t.me/wowus94) • [Habr](https://career.habr.com/wowus94) • [Mail](vnl.dev46@gmail.com)
+
 ---
 
 ## 🛠 Стек технологий
