@@ -7,7 +7,7 @@
 ![Android](https://img.shields.io/badge/-Android-090909?logo=android&logoColor=3DDC84)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 ![Compose](https://img.shields.io/badge/-Jetpack%20Compose-090909?logo=jetpackcompose&logoColor=4285F4)
-![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin%20Multiplatform-090909?)
+![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin%20Multiplatform-090909?logo=kotlinmultiplatform)
 
 ---
 ## 🚀 Избранные проекты  
