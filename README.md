@@ -1,5 +1,9 @@
-<h1 align="center">👋 Привет, я Владимир — Android Developer </h1>
+<img align="right" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="200">
 
+<h1 align="center">👋 Привет, я Владимир — Android Developer </h1>
+---
+## 📫 Контакты
+[Telegram](https://t.me/wowus94) || [Habr](https://career.habr.com/wowus94) || [Mail](vnl.dev46@gmail.com)
 ---
 
 ## 🛠 Стек технологий
@@ -22,7 +26,8 @@
 ## 📊 Статистика
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wowus94)](https://git.io/streak-stats)
 
----
+![](https://komarev.com/ghpvc/?username=wowus94&color=blueviolet&style=flat-square)
 
-## 📫 Контакты
-[Telegram](https://t.me/wowus94) || [Habr](https://career.habr.com/wowus94) || [Mail](vnl.dev46@gmail.com)
+![GitHub Snake](https://github.com/wowus94/wowus94/blob/output/github-contribution-grid-snake.svg)
+
+
