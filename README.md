@@ -1,4 +1,4 @@
-<h2 align="center">👋 Привет, я Владимир — Android Developer </h2>
+<h2 align="center"> Привет, я Владимир 👋 </h2>
 
 ---
 
